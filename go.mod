@@ -1,3 +1,3 @@
-module github.com/tohshi/sd-jwt
+module github.com/tohshi/sdjwt
 
 go 1.22.0
